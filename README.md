@@ -8,6 +8,7 @@ For the sign language conversion method, the methods used is from [!Sign Languag
 # License
 
 Copyright (c) 2021 Nikhil Gupta
+
 Copyright (c) 2022 Jonas Dreiøe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
